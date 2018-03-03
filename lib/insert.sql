@@ -30,4 +30,3 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Pets!Save!Pets!", "adoption", 50000, "Apr 1", "Aug 30");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Read a book", "education", 6000, "Aug 1", "May 30");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Rockstart", "music", 200000, "June 1", "Aug 30");
-
